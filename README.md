@@ -2,7 +2,6 @@
 
 Hello, my name is Iqbal Muthahhary. I reside in Bogor, West Java, Indonesia, and I have extensive experience in front-end web development, particularly with technologies such as React Js, Next Js, and Astro Js. I am currently a third-semester computer science student at Pamulang University.
 
---
 ## TechStack
 
 <img align="left" width="30px" style="padding-right: 10px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
