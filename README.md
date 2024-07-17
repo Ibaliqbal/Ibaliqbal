@@ -25,7 +25,7 @@ Hello, my name is Iqbal Muthahhary. I reside in Bogor, West Java, Indonesia, and
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibaliqbal&show_icons=true&theme=dracula)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibaliqbal&show_icons=true&theme=aura)
 
 <!--
 **Ibaliqbal/Ibaliqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
