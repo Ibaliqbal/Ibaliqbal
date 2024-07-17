@@ -18,6 +18,7 @@ Hello, my name is Iqbal Muthahhary. I reside in Bogor, West Java, Indonesia, and
 <img align="left" width="30px" style="padding-right: 10px" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Framer-Motion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
+<br />
 
 #
 
