@@ -14,7 +14,7 @@ Hello, my name is Iqbal Muthahhary. I reside in Bogor, West Java, Indonesia, and
 <img align="left" width="30px" style="padding-right: 10px" alt="React-Router-Dom" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" width="30px" style="padding-right: 10px" alt="Astro JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+<i  align="left" width="30px" style="padding-right: 10px" class="devicon-astro-plain colored"></i>
 <img align="left" width="30px" style="padding-right: 10px" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Framer-Motion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
