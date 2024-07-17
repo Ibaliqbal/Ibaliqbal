@@ -4,7 +4,7 @@ Hello, my name is Iqbal Muthahhary. I reside in Bogor, West Java, Indonesia, and
 
 ## 🛠 TechStack
 
-<br />
+
 <img align="left" width="30px" style="padding-right: 10px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
