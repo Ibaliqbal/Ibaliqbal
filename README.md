@@ -19,6 +19,12 @@ Hello, my name is Iqbal Muthahhary. I reside in Bogor, West Java, Indonesia, and
 <img align="left" width="30px" style="padding-right: 10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" alt="Framer-Motion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
 
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibaliqbal&show_icons=true&theme=dracula)
+
 <!--
 **Ibaliqbal/Ibaliqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
